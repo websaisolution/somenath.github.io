@@ -261,6 +261,8 @@
         font-size: 40px;
         padding: 0;
     }
+    .hero_heading span{
+        font-sixe:30px;}
 
     .hero_description{
         font: 40px;
