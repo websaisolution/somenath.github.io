@@ -258,7 +258,8 @@
 
 @media screen and (max-width:768px){
     .hero_heading{
-        font-size: 60px;
+        font-size: 40px;
+        padding: 0;
     }
 
     .hero_description{
